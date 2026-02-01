@@ -1,5 +1,3 @@
-
-
 # Data-Scientist-Roadmap (2021)
 
 ![roadmap-picture](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
