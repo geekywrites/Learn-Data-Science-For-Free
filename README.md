@@ -1,4 +1,4 @@
-Give a 🌟 if it's useful and share with other Data Science Enthusiasts.
+
 
 # Data-Scientist-Roadmap (2021)
 
